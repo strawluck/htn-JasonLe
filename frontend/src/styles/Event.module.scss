@@ -1,0 +1,48 @@
+.eventLogo {
+    max-width: 100%;
+    margin: auto;
+}
+
+.eventLogoContainer {
+    /* border-left: 5px black solid; */
+    /* border-radius: 50px; */
+    /* margin-left: 15px; */
+    width: 25%;
+    max-width: 120px;
+
+}
+
+.shadowBorder {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.15), 0 2px 15px 0 rgba(0, 0, 0, 0.15);
+    border-left: 7px #87cefa solid;
+    border-radius: 8px;
+}
+
+.oddSpacing {
+    margin: 0px 0px;
+}
+
+.eventDate {
+    /* font-style: italic; */
+    color: rgb(103, 103, 103);
+    position: relative;
+    /* top: -3px; */
+}
+
+.eventBody {
+    padding-left: 30px;
+}
+
+.eventContent {
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.readMore {
+    width: 100%;
+}
+
+.verticalMargin {
+    margin-top: 5rem;
+}
